@@ -1,0 +1,1 @@
+This project reads a list of integers from input files, extracts unique integers, and writes them into output files. The integers in the output files are sorted in increasing order. The project handles various edge cases such as whitespaces, empty lines, non-integer inputs, and lines with multiple integers.
